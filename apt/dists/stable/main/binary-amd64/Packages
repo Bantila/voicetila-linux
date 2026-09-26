@@ -1,0 +1,20 @@
+Package: voicetila
+Architecture: amd64
+Version: 0.1.0
+Priority: optional
+Section: utils
+Maintainer: VoiceTila <hello@voicetila.ru>
+Installed-Size: 169235
+Depends: libc6 (>= 2.35), libgl1, libopengl0, libegl1, libfontconfig1, libxkbcommon0, libxkbcommon-x11-0, libxcb-cursor0, libdbus-1-3, libgpg-error0, libasound2t64 | libasound2
+Recommends: pipewire-pulse | pulseaudio
+Filename: pool/main/voicetila_0.1.0_amd64.deb
+Size: 63665712
+MD5sum: a8387d11e9ab09d47c2cfb36962c177a
+SHA1: 02ac6b356dca1795aef87c8e6f89b3ec778053c3
+SHA256: 7820a8ca121159f9121d46eab7cc9d95423f095cfbf95dea18118abf885a0131
+SHA512: cd9ef88451d17e471744604c2f2f97fe9f4ee84a958cecad2ef4ae6ff523f6b98af5001e9961372a8157c2eb9ef8f4f5807435729fc621c48a0e327de4fe7cd6
+Homepage: https://voicetila.layero.app
+Description: Dictation and voice commands for your desktop, recognised on this computer.
+ Speech never leaves the computer; the model is downloaded once on first start.
+License: Proprietary
+

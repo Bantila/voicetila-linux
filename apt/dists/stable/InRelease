@@ -1,0 +1,41 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Architectures: amd64 arm64
+Codename: stable
+Components: main
+Date: Sat, 26 Sep 2026 18:38:32 +0000
+Label: VoiceTila
+Origin: VoiceTila
+Suite: stable
+MD5Sum:
+ dccb8667af216a37249b1b2a5aac283c              148 Release
+ 62fb1ec715ba83d27055c91d346c06ef              960 main/binary-amd64/Packages
+ d923ab68f5f519ca036f4d5fc53a53ae              650 main/binary-amd64/Packages.gz
+ 76a7955286f207c9fd90b130b27da8be              960 main/binary-arm64/Packages
+ 68d78fcf6cf44891f379b59d50e17774              648 main/binary-arm64/Packages.gz
+SHA1:
+ cce1541ef04c9770ca8ec4f2832f87a257766482              148 Release
+ 466ae57ea7abe775aa283912f14eb83b743e162e              960 main/binary-amd64/Packages
+ 8939714a7993c84cc57436cd1050962e0fd2f177              650 main/binary-amd64/Packages.gz
+ a0205d3e83a4220831275981e7df7c4207f8403e              960 main/binary-arm64/Packages
+ 2c95b5199f63eceac10c56138c93240a7accac35              648 main/binary-arm64/Packages.gz
+SHA256:
+ 427f2f7623fa35232d3ce009384df9297670b02f543c52dbc202757553284adc              148 Release
+ 459f4fe25508bb6536c159bbd2856fe85e2c3080a4de2f429f375a6063164edb              960 main/binary-amd64/Packages
+ e46dee9d73e84600b51b6a9ad3e9763d7bb2e1b187dc48b8c7d73f52ba2334b0              650 main/binary-amd64/Packages.gz
+ 5d8f3aad04721c8c4806917e591f7953530894481106c27ab961b639c54b81ee              960 main/binary-arm64/Packages
+ 22c3ed5643d101442aa05e29a5923a22faa0d02ebb3639ba02b9091b7ab769c7              648 main/binary-arm64/Packages.gz
+SHA512:
+ d96c8b0cb092be6f4e9f400e5d003db93ba021f54762b6b112d84ce58d0d0a3a0363c7c945d78928140320996613ab2a67949722d607fc61de52eeb68e775946              148 Release
+ d49d7513d91eb2d51c0cc6bef1ccebc99c6dca7b890f704f87cc4f8c2ac3ccb59109fc9c7a9e47bc3eed3a02eb80c1fc71dddf4d04c0f50c1053e1208e80bcd1              960 main/binary-amd64/Packages
+ 9d8daf8e1249c195e96da6e1416b31747c90b4ca75f1f642cd41c4d9f0ed49a04674cbb58ac5fd0ead289b36dd7658bafeba3e0b8e77274b79ba84b02ff29f0f              650 main/binary-amd64/Packages.gz
+ 9e35e381c20d77c5e78bc72324c2a44ed3ee85ec9ed72162f5c0da61dd76513db0b1343213906225c8a976053c081590b01227d5baf64f823e92d8cf2af1d01c              960 main/binary-arm64/Packages
+ 1561018a14765c4fd4e83cdf986b78f8e14e1292f63a9d647ccd6553492c5833a54955d88f530363f36ad870745c455cb531dd9470b0004427c720fe177836a4              648 main/binary-arm64/Packages.gz
+-----BEGIN PGP SIGNATURE-----
+
+iHUEARYKAB0WIQS086wESK4cxh/Z/HIO3CngV49knwUCargRKAAKCRAO3CngV49k
+n5HZAPoCedDra56/H3kLzY6a2q4/98zDelvO5yzyGc48NfnxDwEAjoG7pFRoZi/G
++iRRuGqxdPga+tkX5gHVScj+inGhhAU=
+=fpKT
+-----END PGP SIGNATURE-----
